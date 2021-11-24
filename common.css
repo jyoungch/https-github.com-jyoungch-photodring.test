@@ -13,27 +13,27 @@ body {
 /* 메인 */
 h1 {
     margin: 30px;
-    font-size: 80px;
-    line-height: 80px;
+    font-size: 50px;
+    line-height: 50px;
 }
 
 h2 {
     margin: 0 0 0 30px;
-    font-size: 30px;
+    font-size: 20px;
     line-height: 20px;;
 }
 
 #logo {
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
     position: absolute; bottom: 20px; right: 15px;
     background: url(image/logo.png) no-repeat center center / contain;
     text-indent: -9999px;
 }
 
 a {
-    position: absolute; left: 46%; bottom: 25%;
-    font-size: 30px;
+    position: absolute; left: 40%; bottom: 25%;
+    font-size: 25px;
 }
 
 a:active {
