@@ -8,48 +8,49 @@ body { background: #660000; }
 .heading {
     text-align: center;
     color: #fff;
-    font-size: 25px;
-    padding: 50px 0 40px;
+    font-size: 15px;
+    padding: 60px 0 30px;
 }
 
 
 
 div {
-    width: 500px;
-    position: relative; left: calc(50% - 250px);
-    margin-bottom: 50px;
-    border-radius: 40px;
+    width: 280px;
+    position: relative; left: calc(50% - 140px);
+    margin-bottom: 20px;
+    border-radius: 25px;
 }
 
 div > p {
-    padding-top: 25px;
+    padding-top: 15px;
     box-sizing: border-box;
-    line-height: 27px;
+    line-height: 20px;
     font-weight: bold;
+    font-size: 13px;
 }
 
 #question > p {
-    padding-top: 50px;
-    font-size: 23px;
+    padding-top: 30px;
+    font-size: 15px;
     font-weight: bold;
-    line-height:33px;
+    line-height:20px;
 }
 
 #question {
-    height: 160px;
+    height: 100px;
     background: #fff;
     text-align: center;
-    margin-bottom: 80px;
-    border-radius: 50px;
+    margin-bottom: 60px;
+    border-radius: 35px;
 }
 
 a {
     display: block;
-    width: 500px;
-    height: 100px;
-    position: relative; left: calc(50% - 250px);
-    margin-bottom: 50px;
-    border-radius: 40px;
+    width: 200px;
+    height: 70px;
+    position: relative; left: calc(50% - 100px);
+    margin-bottom: 30px;
+    border-radius: 20px;
     
 }
 
@@ -58,16 +59,16 @@ a {
 }
 
 .answer1, .answer2 {
-    height: 100px;
+    height: 70px;
     background: #fff;
     text-align: center;
   
 }
 
 #logo {
-    position: absolute; bottom: 0px; left: calc(50% - 40px);
-    width: 80px;
-    height: 80px;
+    position: absolute; bottom: 20px; left: calc(50% - 25px);
+    width: 50px;
+    height: 50px;
     background: url(image/logo.png) no-repeat center / contain;
     text-indent: -9999px;
 }

@@ -9,25 +9,25 @@ body {
 
 /* 메인 */
 h1 {
-    position: absolute; top: 90px; left: calc(50% - 40px);
-    width: 80px;
-    height: 80px;
+    position: absolute; top: 60px; left: calc(50% - 30px);
+    width: 60px;
+    height: 60px;
     background: url(image/logo.png) no-repeat center / contain;
     text-indent: -9999px;
 }
 
 h2 {
-    padding-top: 230px;
-    font-size: 40px;
+    padding-top: 180px;
+    font-size: 25px;
     text-align: center;
     color : #fff;
 }
 
 p {
-    padding-top: 70px;
+    padding-top: 60px;
     text-align: center;
-    line-height: 77px;
-    font-size: 80px;
+    line-height: 60px;
+    font-size: 55px;
     font-weight: bold;
     color: #fff;
 }
